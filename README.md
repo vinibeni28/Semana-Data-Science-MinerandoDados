@@ -1,5 +1,6 @@
-<h1> Semana de Data Science</h1>
-<br>Data
+# Semana de Data Science
+
+<br>
 O presente projeto tem como objetivo usar os dados que já está por padrão no Sklearn. Será previsto o valor dos imóveis de uma determinada cidade que no caso será Boston/EUA. 
 
 Simularemos uma contratação para o desenvolvimento de um tecnologia usando ciência de dados que de a melhor acertividade para alguem que gostaria de prever um valor de um imóvel, a qual pode ser uma imobiliária ou um Vendedor de casa.
@@ -35,7 +36,7 @@ Python, Matplotlib, Numpy, Pandas,Scikitlearn, Jupyter e Colab.
 
 <br>
 
-**Como utilizar o arquivo ipynb**
+## Como utilizar o arquivo ipynb
 
 É necessário baixar o arquivo e abrir no Jupyter Notebook. Os gráficos iterativos não irão aparecer no github, então colocarei algumas imagens abaixo.
 
@@ -46,3 +47,18 @@ Python, Matplotlib, Numpy, Pandas,Scikitlearn, Jupyter e Colab.
 ![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/graph1.png)
 <br>
 ![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/graph4.png)
+<br>
+
+## Como executar o app
+
+É preciso instalar a biblioteca do Streamlit
+Após a instalação ir até a pasta do app e digitar: Streamlit run **Nome do Arquivo**
+<br>
+
+![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/appshot1.png)
+<br>
+
+![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/appshot2.png)
+<br>
+
+![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/appshot3.png)
