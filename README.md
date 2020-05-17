@@ -53,12 +53,15 @@ Python, Matplotlib, Numpy, Pandas,Scikitlearn, Jupyter e Colab.
 
 É preciso instalar a biblioteca do Streamlit
 Após a instalação ir até a pasta do app e digitar: Streamlit run **Nome do Arquivo**
+
 <br>
 
 ![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/appshot1.png)
+
 <br>
 
 ![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/appshot2.png)
+
 <br>
 
 ![](https://github.com/vinibeni28/Semana-Data-Science-MinerandoDados/blob/master/figures-semana-data-science/appshot3.png)
