@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 # Ficar em cache do Steamlit
 @st.cache
 def get_data():
-    return pd.read_csv("/home/vinibenites/Documents/Semana-Data-Science-MinerandoDados/aula03/model/data.csv")
+    return pd.read_csv("/home/vinibenites/Documents/Semana-Data-Science-MinerandoDados/data.csv")
 
 
 # Função para treinar o modelo
